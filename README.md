@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I'm YeongKee Kweon.
-- ⚡ I want to become a backend developer.
 
 ### Skills
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
